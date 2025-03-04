@@ -21,7 +21,7 @@
     "@ellucian/experience-extension-server-util": "github:ellucian-developer/experience-extension-server-util#1.0.6",
     "@middy/core": "^4.1.0",
     "@middy/http-error-handler": "^4.1.0",
-    "@middy/http-header-normalizer": "^4.1.0",
+    "@middy/http-header-normalizer": "^4.7.0",
     "http-status-codes": "^2.2.0"
   },
   "devDependencies": {
